@@ -1,0 +1,167 @@
+[
+    {
+        "course_title": "Introduction to Data Science",
+        "course_description": "Learn the basics of data science, including data analysis and visualization.",
+        "category": "Data Science",
+        "level": "Beginner",
+        "duration": "4 weeks",
+        "rating": 4.5,
+        "prerequisites": "None",
+        "learning_outcomes": "Data analysis, data visualization",
+        "course_type": "theory"
+    },
+    {
+        "course_title": "Web Development Bootcamp",
+        "course_description": "A comprehensive course on web development covering HTML, CSS, and JavaScript.",
+        "category": "Web Development",
+        "level": "Intermediate",
+        "duration": "8 weeks",
+        "rating": 4.7,
+        "prerequisites": "Basic understanding of HTML",
+        "learning_outcomes": "HTML, CSS, JavaScript, web design",
+        "course_type": "hands-on"
+    },
+    {
+        "course_title": "Machine Learning with Python",
+        "course_description": "Explore machine learning algorithms and techniques using Python.",
+        "category": "Machine Learning",
+        "level": "Intermediate",
+        "duration": "6 weeks",
+        "rating": 4.6,
+        "prerequisites": "Python programming",
+        "learning_outcomes": "Machine learning algorithms, Python",
+        "course_type": "labs"
+    },
+    {
+        "course_title": "Digital Marketing Fundamentals",
+        "course_description": "Understand the basics of digital marketing, including SEO and social media strategies.",
+        "category": "Marketing",
+        "level": "Beginner",
+        "duration": "5 weeks",
+        "rating": 4.4,
+        "prerequisites": "None",
+        "learning_outcomes": "SEO, social media marketing",
+        "course_type": "interactive web learning"
+    },
+    {
+        "course_title": "Advanced Excel for Data Analysis",
+        "course_description": "Master advanced Excel functions and data analysis techniques.",
+        "category": "Data Analysis",
+        "level": "Advanced",
+        "duration": "3 weeks",
+        "rating": 4.8,
+        "prerequisites": "Basic Excel knowledge",
+        "learning_outcomes": "Advanced Excel functions, data analysis",
+        "course_type": "hands-on"
+    },
+    {
+        "course_title": "Introduction to Artificial Intelligence",
+        "course_description": "Learn the fundamentals of AI, including neural networks and deep learning.",
+        "category": "Artificial Intelligence",
+        "level": "Beginner",
+        "duration": "6 weeks",
+        "rating": 4.5,
+        "prerequisites": "None",
+        "learning_outcomes": "AI fundamentals, neural networks",
+        "course_type": "theory"
+    },
+    {
+        "course_title": "Graphic Design Basics",
+        "course_description": "Discover the principles of graphic design and learn to use design software.",
+        "category": "Design",
+        "level": "Beginner",
+        "duration": "4 weeks",
+        "rating": 4.3,
+        "prerequisites": "None",
+        "learning_outcomes": "Graphic design principles, design software",
+        "course_type": "interactive web learning"
+    },
+    {
+        "course_title": "Cybersecurity Essentials",
+        "course_description": "Gain an understanding of cybersecurity threats and protection strategies.",
+        "category": "Cybersecurity",
+        "level": "Intermediate",
+        "duration": "5 weeks",
+        "rating": 4.6,
+        "prerequisites": "Basic IT knowledge",
+        "learning_outcomes": "Cybersecurity threats, protection strategies",
+        "course_type": "instructor-led"
+    },
+    {
+        "course_title": "Financial Accounting for Beginners",
+        "course_description": "Learn the basics of financial accounting and reporting.",
+        "category": "Finance",
+        "level": "Beginner",
+        "duration": "4 weeks",
+        "rating": 4.7,
+        "prerequisites": "None",
+        "learning_outcomes": "Financial accounting, reporting",
+        "course_type": "theory"
+    },
+    {
+        "course_title": "Introduction to Psychology",
+        "course_description": "Explore the fundamental concepts of psychology and human behavior.",
+        "category": "Psychology",
+        "level": "Beginner",
+        "duration": "6 weeks",
+        "rating": 4.5,
+        "prerequisites": "None",
+        "learning_outcomes": "Psychology concepts, human behavior",
+        "course_type": "theory"
+    },
+    {
+        "course_title": "Java Programming for Beginners",
+        "course_description": "Learn the basics of Java programming and object-oriented concepts.",
+        "category": "Programming",
+        "level": "Beginner",
+        "duration": "5 weeks",
+        "rating": 4.4,
+        "prerequisites": "None",
+        "learning_outcomes": "Java programming, object-oriented concepts",
+        "course_type": "interactive web learning"
+    },
+    {
+        "course_title": "Project Management Professional (PMP) Exam Prep",
+        "course_description": "Prepare for the PMP exam with comprehensive project management training.",
+        "category": "Project Management",
+        "level": "Advanced",
+        "duration": "8 weeks",
+        "rating": 4.8,
+        "prerequisites": "Project management experience",
+        "learning_outcomes": "PMP exam preparation, project management",
+        "course_type": "instructor-led"
+    },
+    {
+        "course_title": "Introduction to Blockchain Technology",
+        "course_description": "Understand the basics of blockchain technology and its applications.",
+        "category": "Technology",
+        "level": "Beginner",
+        "duration": "4 weeks",
+        "rating": 4.5,
+        "prerequisites": "None",
+        "learning_outcomes": "Blockchain technology, applications",
+        "course_type": "theory"
+    },
+    {
+        "course_title": "Creative Writing Workshop",
+        "course_description": "Develop your creative writing skills through exercises and feedback.",
+        "category": "Writing",
+        "level": "Intermediate",
+        "duration": "6 weeks",
+        "rating": 4.7,
+        "prerequisites": "Basic writing skills",
+        "learning_outcomes": "Creative writing, storytelling",
+        "course_type": "hands-on"
+    },
+    {
+        "course_title": "Introduction to Environmental Science",
+        "course_description": "Learn about environmental issues and sustainable practices.",
+        "category": "Environmental Science",
+        "level": "Beginner",
+        "duration": "5 weeks",
+        "rating": 4.6,
+        "prerequisites": "None",
+        "learning_outcomes": "Environmental issues, sustainability",
+        "course_type": "theory"
+    }
+]
